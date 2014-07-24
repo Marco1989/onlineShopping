@@ -1,0 +1,13 @@
+http://dbfinal.netai.net/
+
+
+http://members.000webhost.com
+login - mhr14@pitt.edu
+password - rothrock98
+
+
+db:
+$mysql_host = "mysql13.000webhost.com";
+$mysql_database = "a4041092_final";
+$mysql_user = "a4041092_admin";
+$mysql_password = "rothrock98";
